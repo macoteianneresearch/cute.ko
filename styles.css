@@ -1,7 +1,7 @@
 body {
   margin: 0;
   height: 100vh;
-  background: url("Untitled design (1).png") no-repeat center bottom;
+  background: url("background.png") no-repeat center bottom;
   background-size: cover;
   overflow: hidden;
   font-family: 'Segoe UI', sans-serif;
